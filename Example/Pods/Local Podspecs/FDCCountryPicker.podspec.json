@@ -1,22 +1,22 @@
 {
   "name": "FDCCountryPicker",
   "version": "0.1.0",
-  "summary": "A short description of FDCCountryPicker.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/kuzdu/FDCCountryPicker",
+  "summary": "A lightweight country picker which shows country flags and/or dialing code.",
+  "description": "This is a simple picker which shows\n                        -country names and/or\n                        -country flags and/or\n                        -dialing codes.\n                        \n                        It supports the following languages\n                        -GB english\n                        -US english\n                        -DE german",
+  "homepage": "https://github.com/kuzdu/FlagDialingCodeCountryPicker",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "kuzdu": "michael.rothkegel@invers.com"
+    "kuzdu": "rothkegel.michael@gmail.com"
   },
   "source": {
-    "git": "https://github.com/kuzdu/FDCCountryPicker.git",
+    "git": "https://github.com/kuzdu/FlagDialingCodeCountryPicker.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
   "source_files": "FDCCountryPicker/Classes/**/*"
 }
