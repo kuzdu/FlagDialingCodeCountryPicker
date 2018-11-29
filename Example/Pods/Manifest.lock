@@ -1,0 +1,16 @@
+PODS:
+  - FDCCountryPicker (0.1.0)
+
+DEPENDENCIES:
+  - FDCCountryPicker (from `../`)
+
+EXTERNAL SOURCES:
+  FDCCountryPicker:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FDCCountryPicker: 74f30ed3f7a1473e8e9b7c5f69218b36aef44678
+
+PODFILE CHECKSUM: ce5d5b9b5cd1f794ac48598948de2cdf42ba7875
+
+COCOAPODS: 1.4.0

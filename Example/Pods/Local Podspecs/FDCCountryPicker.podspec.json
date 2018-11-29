@@ -1,0 +1,22 @@
+{
+  "name": "FDCCountryPicker",
+  "version": "0.1.0",
+  "summary": "A short description of FDCCountryPicker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kuzdu/FDCCountryPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kuzdu": "michael.rothkegel@invers.com"
+  },
+  "source": {
+    "git": "https://github.com/kuzdu/FDCCountryPicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FDCCountryPicker/Classes/**/*"
+}

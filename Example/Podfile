@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FDCCountryPicker_Example' do
+  pod 'FDCCountryPicker', :path => '../'
+
+  target 'FDCCountryPicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

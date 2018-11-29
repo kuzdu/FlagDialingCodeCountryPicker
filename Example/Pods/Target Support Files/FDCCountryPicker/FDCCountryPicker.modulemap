@@ -1,0 +1,6 @@
+framework module FDCCountryPicker {
+  umbrella header "FDCCountryPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
