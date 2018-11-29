@@ -22,7 +22,7 @@ pod 'FDCCountryPicker'
 
 ## Author
 
-kuzdu, michael.rothkegel@invers.com
+kuzdu
 
 ## License
 
